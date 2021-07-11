@@ -1,0 +1,7 @@
+var allAdd = '+'
+var allSub = '-'
+var allEqualityCheck = '=='
+var allGeneralEquality = '='
+var allMult = '*'
+var allDiv = '/'
+var allVarMod = 'replaceme = '
